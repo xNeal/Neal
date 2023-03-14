@@ -11,5 +11,6 @@ Welcome to AI_Ocean's documentation!
    :caption: Contents:
 
    About
+   AI/index
    2023/index
 
